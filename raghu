@@ -1,1 +1,187 @@
-kjbkjdvbjk
+    1  touch raghu
+    2  ls
+    3  vi raghu
+    4  pwd
+    5* 
+    6  mv raghu /home/vagrant/
+    7  ls
+    8  cd ~
+    9  ls
+   10  pwd
+   11  cd ..
+   12  ls
+   13  cd home
+   14  ls
+   15  cd vagrant
+   16  ls
+   17  mkdir learnings
+   18  ls
+   19  mv raghu learnings
+   20  ls
+   21  cd learnings
+   22  ls
+   23  mv raghu "Raghu"
+   24  ls
+   25  touch .raghu
+   26  ls
+   27  ls -a
+   28  ls
+   29  cd ..
+   30  ls
+   31  git init
+   32  pwd
+   33  cd learnings
+   34  git init
+   35  git push -b learnings
+   36  git create learnings
+   37  git add .
+   38  git commit -m "1st commit"
+   39  git config --global user.email "raghu201895@gmail.com"
+   40* git config --global user.name "raghu201895
+   41* 
+   42  git push
+   43  git add remote origin master
+   44  git remote add origin master
+   45  cd ..
+   46  ls
+   47  cd ..
+   48  ls
+   49  cd vagrant
+   50  ls
+   51  git clone https://github.com/venesh31/python.git
+   52  ls
+   53  cd python
+   54  ls
+   55  git clone https://github.com/venesh31?tab=repositories
+   56  ls
+   57  cd ..
+   58  ls
+   59  cd learnings
+   60  ls
+   61  cd ..
+   62* 
+   63  ls
+   64  cd learnings
+   65  ls
+   66  git status
+   67  git log
+   68  git show f30fae3d35814acdca43a88b0ff4968342744bbd
+   69  git push
+   70* 
+   71  git push
+   72  git push -u
+   73  git remote add origin master
+   74  git commit -m 
+   75  git commit 
+   76  vi raghu
+   77  ls
+   78  git add raghu
+   79  git status
+   80  git reset
+   81  git status
+   82  git add raghu
+   83  git status
+   84  git commit 
+   85  ls
+   86  cd 
+   87  git status
+   88  ls
+   89  cd /home
+   90  ls
+   91  cd learnings
+   92  ls
+   93  git status
+   94  git add .
+   95  git commit -m "raghu is committed" 
+   96  git push -u origin master
+   97  git branch
+   98  git push origin master
+   99  git remote add origin master
+  100  git remote rm origin
+  101  git push origin master
+  102  git config --global user.name "raghu201895"
+  103  git config --global user.email "raghu201895@gmail.com"
+  104  git status
+  105  git show 
+  106  git diff
+  107  git diff --cached
+  108  git diff --staged 
+  109  git log
+  110  git show ref
+  111  git remote add origin master
+  112  git push -u origin master
+  113  git remote add origin https://github.com/raghu201895/learnings.git
+  114  git push -u origin master
+  115  ssh-keygen -t rsa -C "raghu201895@gmail.com"
+  116  cat ~/.ssh/id_rsa.pub
+  117  ssh-keygen -t rsa -C "raghu201895@gmail.com"
+  118  cd ..
+  119  mkdir learnings2
+  120  git init
+  121  cd learnings2
+  122  git init
+  123  cd ..
+  124  ls
+  125  rm -rf learnings2
+  126  ls
+  127  mkdir git
+  128  git config --global user.name raghu201895
+  129  git config --global user.email raghu201895@gmail.com
+  130  git clone https://github.com/raghu201895/learnings2.git
+  131  cd learnings2
+  132  ls
+  133  vi raghu
+  134  git add raghu
+  135  git commit -m "raghu is committed"
+  136  git push -u origin master
+  137  cd ./learnings
+  138  cd ../learnings
+  139  git remote rm origin master
+  140  git remote rm master
+  141  git remote rm origin master
+  142  cd ..
+  143  ls
+  144  rm -rf learnings
+  145  git clone https://github.com/raghu201895/learnings.git
+  146  vi raghu
+  147  git add raghu
+  148  git status
+  149  git commit -m "raghu is committed again"
+  150  git push -u origin master
+  151  cd ..
+  152  rm -rf learnings
+  153  ls
+  154  cd vagrant
+  155  ls
+  156  rm -rf learnings
+  157  ls
+  158  git clone https://github.com/raghu201895/rag.git
+  159  cd rag
+  160  ls
+  161  vi raghu
+  162  git add raghu
+  163  git commit -m "raghu"
+  164  git push -u origin master
+  165  cd ..
+  166  ls
+  167  git
+  168  cd git
+  169  ls
+  170  git init
+  171  ls -s
+  172  ls -a
+  173  vi raghu
+  174  git commit -m "raghu"
+  175  git push -u origin master
+  176  git remote add https://github.com/raghu201895/git.git
+  177  git remote add origin https://github.com/raghu201895/git.git
+  178  git push -u origin master
+  179  git status
+  180  git commit -m "raghu"
+  181  git reset
+  182  git add .
+  183  git commit -m "raghu"
+  184  git push -u origin master
+  185  history
+  186  cat history > raghu
+  187  history > raghu
